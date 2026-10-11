@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": "cocina-001",
     "category": "Cocina",
     "name": "Mesa",
     "description": "Mueble utilizado para preparar, colocar o consumir alimentos.",
@@ -9,10 +9,12 @@
     "price": 6000,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r8.png"
+    "image": "images/cocina_8.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-001",
+    "qr": "qrs/QR_001_mesa.png"
   },
   {
-    "id": "2",
+    "id": "cocina-002",
     "category": "Cocina",
     "name": "Sillas",
     "description": "Asientos utilizados para sentarse alrededor de una mesa.",
@@ -21,10 +23,12 @@
     "price": 5500,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r9.jpg"
+    "image": "images/cocina_9.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-002",
+    "qr": "qrs/QR_002_sillas.png"
   },
   {
-    "id": "3",
+    "id": "cocina-003",
     "category": "Cocina",
     "name": "Refrigerador",
     "description": "Electrodoméstico que conserva alimentos y bebidas a bajas temperaturas.",
@@ -33,10 +37,12 @@
     "price": 11790,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r10.jpg"
+    "image": "images/cocina_10.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-003",
+    "qr": "qrs/QR_003_refrigerador.png"
   },
   {
-    "id": "4",
+    "id": "cocina-004",
     "category": "Cocina",
     "name": "Estufa",
     "description": "Aparato utilizado para cocinar y calentar alimentos.",
@@ -45,10 +51,12 @@
     "price": 8000,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r11.jpg"
+    "image": "images/cocina_11.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-004",
+    "qr": "qrs/QR_004_estufa.png"
   },
   {
-    "id": "5",
+    "id": "cocina-005",
     "category": "Cocina",
     "name": "Microondas",
     "description": "Sirve para calentar y descongelar alimentos rápidamente.",
@@ -57,10 +65,12 @@
     "price": 2500,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r12.jpg"
+    "image": "images/cocina_12.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-005",
+    "qr": "qrs/QR_005_microondas.png"
   },
   {
-    "id": "6",
+    "id": "cocina-006",
     "category": "Cocina",
     "name": "Licuadora",
     "description": "Aparato que tritura y mezcla ingredientes para preparar bebidas y alimentos.",
@@ -69,10 +79,12 @@
     "price": 1000,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r13.jpg"
+    "image": "images/cocina_13.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-006",
+    "qr": "qrs/QR_006_licuadora.png"
   },
   {
-    "id": "7",
+    "id": "cocina-007",
     "category": "Cocina",
     "name": "Alacena",
     "description": "Mueble utilizado para almacenar alimentos y utensilios de cocina.",
@@ -81,10 +93,12 @@
     "price": 8000,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r14.png"
+    "image": "images/cocina_14.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-007",
+    "qr": "qrs/QR_007_alacena.png"
   },
   {
-    "id": "8",
+    "id": "cocina-008",
     "category": "Cocina",
     "name": "Cucharas",
     "description": "Utensilios utilizados para comer, servir o mezclar alimentos.",
@@ -93,10 +107,12 @@
     "price": 375,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r15.png"
+    "image": "images/cocina_15.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-008",
+    "qr": "qrs/QR_008_cucharas.png"
   },
   {
-    "id": "9",
+    "id": "cocina-009",
     "category": "Cocina",
     "name": "Platos de plástico",
     "description": "Recipientes planos utilizados para servir alimentos.",
@@ -105,10 +121,12 @@
     "price": 420,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r16.jpg"
+    "image": "images/cocina_16.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-009",
+    "qr": "qrs/QR_009_platos-de-pl-stico.png"
   },
   {
-    "id": "10",
+    "id": "cocina-010",
     "category": "Cocina",
     "name": "Platos de vidrio",
     "description": "Utensilios de vidrio utilizados para servir y consumir comida.",
@@ -117,10 +135,12 @@
     "price": 300,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r17.jpg"
+    "image": "images/cocina_17.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-010",
+    "qr": "qrs/QR_010_platos-de-vidrio.png"
   },
   {
-    "id": "11",
+    "id": "cocina-011",
     "category": "Cocina",
     "name": "Vasos de plástico",
     "description": "Recipientes utilizados para beber líquidos.",
@@ -129,10 +149,12 @@
     "price": 375,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r18.jpg"
+    "image": "images/cocina_18.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-011",
+    "qr": "qrs/QR_011_vasos-de-pl-stico.png"
   },
   {
-    "id": "12",
+    "id": "cocina-012",
     "category": "Cocina",
     "name": "Vasos de vidrio",
     "description": "Recipientes de vidrio utilizados para servir bebidas.",
@@ -141,10 +163,12 @@
     "price": 400,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r19.jpg"
+    "image": "images/cocina_19.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-012",
+    "qr": "qrs/QR_012_vasos-de-vidrio.png"
   },
   {
-    "id": "13",
+    "id": "cocina-013",
     "category": "Cocina",
     "name": "Tazas",
     "description": "Sirven para tomar café, té, leche y otras bebidas.",
@@ -153,10 +177,12 @@
     "price": 660,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r20.jpg"
+    "image": "images/cocina_20.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-013",
+    "qr": "qrs/QR_013_tazas.png"
   },
   {
-    "id": "14",
+    "id": "cocina-014",
     "category": "Cocina",
     "name": "Cucharones ",
     "description": "Utensilios grandes utilizados para servir sopas, caldos y otros alimentos.",
@@ -165,10 +191,12 @@
     "price": 300,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r21.jpg"
+    "image": "images/cocina_21.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-014",
+    "qr": "qrs/QR_014_cucharones.png"
   },
   {
-    "id": "15",
+    "id": "cocina-015",
     "category": "Cocina",
     "name": "Ollas",
     "description": "Recipientes utilizados para cocinar alimentos mediante calor.",
@@ -177,10 +205,12 @@
     "price": 2800,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r22.jpg"
+    "image": "images/cocina_22.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-015",
+    "qr": "qrs/QR_015_ollas.png"
   },
   {
-    "id": "16",
+    "id": "cocina-016",
     "category": "Cocina",
     "name": "Sartenes",
     "description": "Utensilios de cocina utilizados para freír y saltear alimentos.",
@@ -189,10 +219,12 @@
     "price": 2500,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r23.jpg"
+    "image": "images/cocina_23.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-016",
+    "qr": "qrs/QR_016_sartenes.png"
   },
   {
-    "id": "17",
+    "id": "cocina-017",
     "category": "Cocina",
     "name": "Garrafones de agua",
     "description": "Recipientes de gran capacidad utilizados para almacenar agua potable.",
@@ -201,10 +233,12 @@
     "price": 150,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r24.jpg"
+    "image": "images/cocina_24.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-017",
+    "qr": "qrs/QR_017_garrafones-de-agua.png"
   },
   {
-    "id": "18",
+    "id": "cocina-018",
     "category": "Cocina",
     "name": "Botellones ",
     "description": "Recipientes utilizados para contener y transportar líquidos.",
@@ -213,10 +247,12 @@
     "price": 480,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r25.jpg"
+    "image": "images/cocina_25.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-018",
+    "qr": "qrs/QR_018_botellones.png"
   },
   {
-    "id": "19",
+    "id": "cocina-019",
     "category": "Cocina",
     "name": "Yetis",
     "description": "Vasos o termos reutilizables que ayudan a conservar la temperatura de las bebidas.",
@@ -225,10 +261,12 @@
     "price": 1500,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r26.png"
+    "image": "images/cocina_26.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-019",
+    "qr": "qrs/QR_019_yetis.png"
   },
   {
-    "id": "20",
+    "id": "cocina-020",
     "category": "Cocina",
     "name": "Biberones",
     "description": "Recipientes con tetina utilizados para alimentar a los bebés.",
@@ -237,10 +275,12 @@
     "price": 150,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r27.jpg"
+    "image": "images/cocina_27.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-020",
+    "qr": "qrs/QR_020_biberones.png"
   },
   {
-    "id": "21",
+    "id": "cocina-021",
     "category": "Cocina",
     "name": "Alexa",
     "description": "Asistente inteligente que permite reproducir música y realizar funciones mediante comandos de voz.",
@@ -249,10 +289,12 @@
     "price": 1200,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cocina_r28.png"
+    "image": "images/cocina_28.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cocina-021",
+    "qr": "qrs/QR_021_alexa.png"
   },
   {
-    "id": "22",
+    "id": "despensa-022",
     "category": "Despensa",
     "name": "Leche",
     "description": "Alimento líquido que se consume directamente y se utiliza en bebidas y recetas.",
@@ -261,10 +303,12 @@
     "price": 60,
     "expiration": "2026-11-22",
     "barcode": "",
-    "image": "images/Despensa_r5.jpg"
+    "image": "images/despensa_5.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-022",
+    "qr": "qrs/QR_022_leche.png"
   },
   {
-    "id": "23",
+    "id": "despensa-023",
     "category": "Despensa",
     "name": "Huevos",
     "description": "Alimentos ricos en proteínas utilizados en desayunos, guisos y diferentes preparaciones.",
@@ -273,10 +317,12 @@
     "price": 60,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Despensa_r6.jpg"
+    "image": "images/despensa_6.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-023",
+    "qr": "qrs/QR_023_huevos.png"
   },
   {
-    "id": "24",
+    "id": "despensa-024",
     "category": "Despensa",
     "name": "Yogurt",
     "description": "Producto lácteo cremoso que se consume solo o acompañado de frutas y cereales.",
@@ -285,10 +331,12 @@
     "price": 36,
     "expiration": "2026-10-27",
     "barcode": "",
-    "image": "images/Despensa_r7.png"
+    "image": "images/despensa_7.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-024",
+    "qr": "qrs/QR_024_yogurt.png"
   },
   {
-    "id": "25",
+    "id": "despensa-025",
     "category": "Despensa",
     "name": "Proteína",
     "description": "Producto o suplemento alimenticio que complementa el consumo de proteínas.",
@@ -297,10 +345,12 @@
     "price": 1200,
     "expiration": "2027-07-01",
     "barcode": "",
-    "image": "images/Despensa_r8.jpg"
+    "image": "images/despensa_8.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-025",
+    "qr": "qrs/QR_025_prote-na.png"
   },
   {
-    "id": "26",
+    "id": "despensa-026",
     "category": "Despensa",
     "name": "Bizcochos",
     "description": "Productos de panadería dulces que se consumen como merienda o acompañamiento de bebidas.",
@@ -309,10 +359,12 @@
     "price": 23,
     "expiration": "2028-02-28",
     "barcode": "",
-    "image": "images/Despensa_r9.png"
+    "image": "images/despensa_9.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-026",
+    "qr": "qrs/QR_026_bizcochos.png"
   },
   {
-    "id": "27",
+    "id": "despensa-027",
     "category": "Despensa",
     "name": "Media crema",
     "description": "Producto lácteo cremoso que aporta textura y sabor a sopas, pastas y salsas.",
@@ -321,10 +373,12 @@
     "price": 13,
     "expiration": "2027-03-25",
     "barcode": "",
-    "image": "images/Despensa_r10.jpg"
+    "image": "images/despensa_10.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-027",
+    "qr": "qrs/QR_027_media-crema.png"
   },
   {
-    "id": "28",
+    "id": "despensa-028",
     "category": "Despensa",
     "name": "Tortilla de harina",
     "description": "Alimento elaborado principalmente con harina de trigo para preparar burritos, quesadillas y tacos.",
@@ -333,10 +387,12 @@
     "price": 45,
     "expiration": "2026-11-24",
     "barcode": "",
-    "image": "images/Despensa_r11.png"
+    "image": "images/despensa_11.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-028",
+    "qr": "qrs/QR_028_tortilla-de-harina.png"
   },
   {
-    "id": "29",
+    "id": "despensa-029",
     "category": "Despensa",
     "name": "Aceite",
     "description": "Líquido graso utilizado para freír, saltear y cocinar alimentos.",
@@ -345,10 +401,12 @@
     "price": 45,
     "expiration": "2027-03-01",
     "barcode": "",
-    "image": "images/Despensa_r12.jpg"
+    "image": "images/despensa_12.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-029",
+    "qr": "qrs/QR_029_aceite.png"
   },
   {
-    "id": "30",
+    "id": "despensa-030",
     "category": "Despensa",
     "name": "Azúcar",
     "description": "Producto dulce utilizado para endulzar bebidas y preparar postres.",
@@ -357,10 +415,12 @@
     "price": 35,
     "expiration": "2028-09-01",
     "barcode": "",
-    "image": "images/Despensa_r13.jpg"
+    "image": "images/despensa_13.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-030",
+    "qr": "qrs/QR_030_az-car.png"
   },
   {
-    "id": "31",
+    "id": "despensa-031",
     "category": "Despensa",
     "name": "Café",
     "description": "Producto elaborado a partir de granos tostados para preparar una bebida con cafeína.",
@@ -369,10 +429,12 @@
     "price": 70,
     "expiration": "2027-10-31",
     "barcode": "",
-    "image": "images/Despensa_r14.png"
+    "image": "images/despensa_14.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-031",
+    "qr": "qrs/QR_031_caf.png"
   },
   {
-    "id": "32",
+    "id": "despensa-032",
     "category": "Despensa",
     "name": "Miguelito",
     "description": "Condimento en polvo de sabor dulce, ácido y picante para acompañar frutas y botanas.",
@@ -381,10 +443,12 @@
     "price": 35,
     "expiration": "2027-06-10",
     "barcode": "",
-    "image": "images/Despensa_r15.jpg"
+    "image": "images/despensa_15.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-032",
+    "qr": "qrs/QR_032_miguelito.png"
   },
   {
-    "id": "33",
+    "id": "despensa-033",
     "category": "Despensa",
     "name": "Miel",
     "description": "Sustancia dulce utilizada para endulzar bebidas y acompañar alimentos.",
@@ -393,10 +457,12 @@
     "price": 120,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Despensa_r16.jpg"
+    "image": "images/despensa_16.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-033",
+    "qr": "qrs/QR_033_miel.png"
   },
   {
-    "id": "34",
+    "id": "despensa-034",
     "category": "Despensa",
     "name": "Salsa botanera",
     "description": "Salsa condimentada para acompañar papas, frituras, frutas y otras botanas.",
@@ -405,10 +471,12 @@
     "price": 35,
     "expiration": "2027-03-11",
     "barcode": "",
-    "image": "images/Despensa_r17.jpg"
+    "image": "images/despensa_17.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-034",
+    "qr": "qrs/QR_034_salsa-botanera.png"
   },
   {
-    "id": "35",
+    "id": "despensa-035",
     "category": "Despensa",
     "name": "Salsa valentina",
     "description": "Salsa picante que aporta sabor a botanas y diferentes comidas.",
@@ -417,10 +485,12 @@
     "price": 25,
     "expiration": "2029-01-01",
     "barcode": "",
-    "image": "images/Despensa_r18.jpg"
+    "image": "images/despensa_18.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-035",
+    "qr": "qrs/QR_035_salsa-valentina.png"
   },
   {
-    "id": "36",
+    "id": "despensa-036",
     "category": "Despensa",
     "name": "Mayonesa",
     "description": "Aderezo cremoso utilizado en sándwiches, tortas, ensaladas y otras preparaciones.",
@@ -429,10 +499,12 @@
     "price": 49,
     "expiration": "2027-08-01",
     "barcode": "",
-    "image": "images/Despensa_r19.jpg"
+    "image": "images/despensa_19.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-036",
+    "qr": "qrs/QR_036_mayonesa.png"
   },
   {
-    "id": "37",
+    "id": "despensa-037",
     "category": "Despensa",
     "name": "Catsup",
     "description": "Salsa a base de tomate que acompaña hamburguesas, papas fritas y otros alimentos.",
@@ -441,10 +513,12 @@
     "price": 80,
     "expiration": "2027-05-27",
     "barcode": "",
-    "image": "images/Despensa_r20.jpg"
+    "image": "images/despensa_20.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-037",
+    "qr": "qrs/QR_037_catsup.png"
   },
   {
-    "id": "38",
+    "id": "despensa-038",
     "category": "Despensa",
     "name": "Splenda",
     "description": "Endulzante utilizado como alternativa al azúcar en bebidas y alimentos.",
@@ -453,10 +527,12 @@
     "price": 60,
     "expiration": "2028-01-01",
     "barcode": "",
-    "image": "images/Despensa_r21.png"
+    "image": "images/despensa_21.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-038",
+    "qr": "qrs/QR_038_splenda.png"
   },
   {
-    "id": "39",
+    "id": "despensa-039",
     "category": "Despensa",
     "name": "Salsa picante",
     "description": "Condimento líquido que añade picor y sabor a diferentes comidas.",
@@ -465,10 +541,12 @@
     "price": 35,
     "expiration": "2028-06-01",
     "barcode": "",
-    "image": "images/Despensa_r22.jpg"
+    "image": "images/despensa_22.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-039",
+    "qr": "qrs/QR_039_salsa-picante.png"
   },
   {
-    "id": "40",
+    "id": "despensa-040",
     "category": "Despensa",
     "name": "Crema de cacahuate",
     "description": "Pasta de cacahuate utilizada para untar en pan y preparar licuados o postres.",
@@ -477,10 +555,12 @@
     "price": 100,
     "expiration": "2027-03-06",
     "barcode": "",
-    "image": "images/Despensa_r23.jpg"
+    "image": "images/despensa_23.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-040",
+    "qr": "qrs/QR_040_crema-de-cacahuate.png"
   },
   {
-    "id": "41",
+    "id": "despensa-041",
     "category": "Despensa",
     "name": "Fresas",
     "description": "Frutas rojas y jugosas que se consumen frescas o en bebidas y postres.",
@@ -489,10 +569,12 @@
     "price": 60,
     "expiration": "2026-10-17",
     "barcode": "",
-    "image": "images/Despensa_r24.jpg"
+    "image": "images/despensa_24.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-041",
+    "qr": "qrs/QR_041_fresas.png"
   },
   {
-    "id": "42",
+    "id": "despensa-042",
     "category": "Despensa",
     "name": "Yakult",
     "description": "Bebida láctea fermentada que contiene bacterias probióticas.",
@@ -501,10 +583,12 @@
     "price": 40,
     "expiration": "2026-10-24",
     "barcode": "",
-    "image": "images/Despensa_r25.png"
+    "image": "images/despensa_25.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-042",
+    "qr": "qrs/QR_042_yakult.png"
   },
   {
-    "id": "43",
+    "id": "despensa-043",
     "category": "Despensa",
     "name": "Gansito",
     "description": "Pastelito individual de pan dulce con relleno y cobertura de chocolate.",
@@ -513,10 +597,12 @@
     "price": 25,
     "expiration": "2026-10-29",
     "barcode": "",
-    "image": "images/Despensa_r26.jpg"
+    "image": "images/despensa_26.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-043",
+    "qr": "qrs/QR_043_gansito.png"
   },
   {
-    "id": "44",
+    "id": "despensa-044",
     "category": "Despensa",
     "name": "Pingüino",
     "description": "Pastelito de chocolate con relleno cremoso y cobertura dulce.",
@@ -525,10 +611,12 @@
     "price": 25,
     "expiration": "2027-03-07",
     "barcode": "",
-    "image": "images/Despensa_r27.jpg"
+    "image": "images/despensa_27.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-044",
+    "qr": "qrs/QR_044_ping-ino.png"
   },
   {
-    "id": "45",
+    "id": "despensa-045",
     "category": "Despensa",
     "name": "Totopos",
     "description": "Trozos crujientes de tortilla de maíz para acompañar salsas o preparar chilaquiles.",
@@ -537,10 +625,12 @@
     "price": 45,
     "expiration": "2027-01-28",
     "barcode": "",
-    "image": "images/Despensa_r28.jpg"
+    "image": "images/despensa_28.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-045",
+    "qr": "qrs/QR_045_totopos.png"
   },
   {
-    "id": "46",
+    "id": "despensa-046",
     "category": "Despensa",
     "name": "Plátano",
     "description": "Fruta dulce que se consume fresca o se utiliza en licuados y postres.",
@@ -549,10 +639,12 @@
     "price": 55,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Despensa_r29.png"
+    "image": "images/despensa_29.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-046",
+    "qr": "qrs/QR_046_pl-tano.png"
   },
   {
-    "id": "47",
+    "id": "despensa-047",
     "category": "Despensa",
     "name": "Nutella",
     "description": "Crema dulce de cacao y avellanas para untar en pan y preparar postres.",
@@ -561,10 +653,12 @@
     "price": 130,
     "expiration": "2027-09-17",
     "barcode": "",
-    "image": "images/Despensa_r30.jpg"
+    "image": "images/despensa_30.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-047",
+    "qr": "qrs/QR_047_nutella.png"
   },
   {
-    "id": "48",
+    "id": "despensa-048",
     "category": "Despensa",
     "name": "Pepino",
     "description": "Hortaliza fresca y rica en agua que se utiliza en ensaladas y botanas.",
@@ -573,10 +667,12 @@
     "price": 20,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Despensa_r31.jpg"
+    "image": "images/despensa_31.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-048",
+    "qr": "qrs/QR_048_pepino.png"
   },
   {
-    "id": "49",
+    "id": "despensa-049",
     "category": "Despensa",
     "name": "Media noche",
     "description": "Pan suave utilizado principalmente para preparar hot dogs.",
@@ -585,10 +681,12 @@
     "price": 41,
     "expiration": "2026-10-23",
     "barcode": "",
-    "image": "images/Despensa_r32.png"
+    "image": "images/despensa_32.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-049",
+    "qr": "qrs/QR_049_media-noche.png"
   },
   {
-    "id": "50",
+    "id": "despensa-050",
     "category": "Despensa",
     "name": "Pasta",
     "description": "Alimento elaborado generalmente con harina y agua para preparar sopas y platillos.",
@@ -597,10 +695,12 @@
     "price": 22.5,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Despensa_r33.jpg"
+    "image": "images/despensa_33.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-050",
+    "qr": "qrs/QR_050_pasta.png"
   },
   {
-    "id": "51",
+    "id": "despensa-051",
     "category": "Despensa",
     "name": "Arroz",
     "description": "Cereal que se cocina y se consume como acompañamiento o ingrediente de distintas recetas.",
@@ -609,10 +709,12 @@
     "price": 14,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Despensa_r34.jpg"
+    "image": "images/despensa_34.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-051",
+    "qr": "qrs/QR_051_arroz.png"
   },
   {
-    "id": "52",
+    "id": "despensa-052",
     "category": "Despensa",
     "name": "Soles",
     "description": "Producto alimenticio o botana; su uso específico depende de la presentación que se tenga.",
@@ -621,10 +723,12 @@
     "price": 25,
     "expiration": "2027-03-28",
     "barcode": "",
-    "image": "images/Despensa_r35.jpg"
+    "image": "images/despensa_35.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-052",
+    "qr": "qrs/QR_052_soles.png"
   },
   {
-    "id": "53",
+    "id": "despensa-053",
     "category": "Despensa",
     "name": "Clight",
     "description": "Polvo para preparar bebidas saborizadas al disolverlo en agua.",
@@ -633,10 +737,12 @@
     "price": 35,
     "expiration": "2027-09-12",
     "barcode": "",
-    "image": "images/Despensa_r36.png"
+    "image": "images/despensa_36.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-053",
+    "qr": "qrs/QR_053_clight.png"
   },
   {
-    "id": "54",
+    "id": "despensa-054",
     "category": "Despensa",
     "name": "Philadelphia",
     "description": "Queso crema de textura suave para untar, cocinar y preparar postres.",
@@ -645,10 +751,12 @@
     "price": 45,
     "expiration": "2027-03-21",
     "barcode": "",
-    "image": "images/Despensa_r37.jpg"
+    "image": "images/despensa_37.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-054",
+    "qr": "qrs/QR_054_philadelphia.png"
   },
   {
-    "id": "55",
+    "id": "despensa-055",
     "category": "Despensa",
     "name": "Cebolla blanca",
     "description": "Hortaliza de sabor y aroma característicos que se utiliza para condimentar comidas.",
@@ -657,10 +765,12 @@
     "price": 18,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Despensa_r38.png"
+    "image": "images/despensa_38.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-055",
+    "qr": "qrs/QR_055_cebolla-blanca.png"
   },
   {
-    "id": "56",
+    "id": "despensa-056",
     "category": "Despensa",
     "name": "Jamón ",
     "description": "Producto cárnico procesado para preparar sándwiches, tortas y otros platillos.",
@@ -669,10 +779,12 @@
     "price": 52,
     "expiration": "2026-10-12",
     "barcode": "",
-    "image": "images/Despensa_r39.jpg"
+    "image": "images/despensa_39.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-056",
+    "qr": "qrs/QR_056_jam-n.png"
   },
   {
-    "id": "57",
+    "id": "despensa-057",
     "category": "Despensa",
     "name": "Queso",
     "description": "Producto lácteo de distintas texturas y sabores utilizado en comidas y recetas.",
@@ -681,10 +793,12 @@
     "price": 46,
     "expiration": "2026-10-15",
     "barcode": "",
-    "image": "images/Despensa_r40.jpg"
+    "image": "images/despensa_40.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-057",
+    "qr": "qrs/QR_057_queso.png"
   },
   {
-    "id": "58",
+    "id": "despensa-058",
     "category": "Despensa",
     "name": "Manzanas",
     "description": "Frutas de pulpa firme que se consumen frescas o en ensaladas y postres.",
@@ -693,10 +807,12 @@
     "price": 52,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Despensa_r41.png"
+    "image": "images/despensa_41.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=despensa-058",
+    "qr": "qrs/QR_058_manzanas.png"
   },
   {
-    "id": "59",
+    "id": "sala-059",
     "category": "Sala",
     "name": "Muebles",
     "description": "Artículos utilizados para organizar y decorar los espacios del hogar.",
@@ -705,10 +821,12 @@
     "price": 4000,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Sala_r5.jpg"
+    "image": "images/sala_5.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=sala-059",
+    "qr": "qrs/QR_059_muebles.png"
   },
   {
-    "id": "60",
+    "id": "sala-060",
     "category": "Sala",
     "name": "Mesita de madera",
     "description": "Superficie de madera utilizada para colocar objetos.",
@@ -717,10 +835,12 @@
     "price": 1800,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Sala_r6.jpg"
+    "image": "images/sala_6.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=sala-060",
+    "qr": "qrs/QR_060_mesita-de-madera.png"
   },
   {
-    "id": "61",
+    "id": "sala-061",
     "category": "Sala",
     "name": "Lapiceros",
     "description": "Instrumentos utilizados para escribir.",
@@ -729,10 +849,12 @@
     "price": 40,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Sala_r7.jpg"
+    "image": "images/sala_7.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=sala-061",
+    "qr": "qrs/QR_061_lapiceros.png"
   },
   {
-    "id": "62",
+    "id": "sala-062",
     "category": "Sala",
     "name": "Bocina",
     "description": "Dispositivo electrónico que reproduce sonidos y música.",
@@ -741,10 +863,12 @@
     "price": 700,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Sala_r8.jpg"
+    "image": "images/sala_8.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=sala-062",
+    "qr": "qrs/QR_062_bocina.png"
   },
   {
-    "id": "63",
+    "id": "sala-063",
     "category": "Sala",
     "name": "Camioneta de juguete",
     "description": "Objeto destinados al entretenimiento y la diversión.",
@@ -753,10 +877,12 @@
     "price": 7500,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Sala_r9.jpg"
+    "image": "images/sala_9.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=sala-063",
+    "qr": "qrs/QR_063_camioneta-de-juguete.png"
   },
   {
-    "id": "64",
+    "id": "sala-064",
     "category": "Sala",
     "name": "Mochila escolar",
     "description": "Bolsa utilizada para transportar útiles escolares.",
@@ -765,10 +891,12 @@
     "price": 500,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Sala_r10.jpg"
+    "image": "images/sala_10.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=sala-064",
+    "qr": "qrs/QR_064_mochila-escolar.png"
   },
   {
-    "id": "65",
+    "id": "sala-065",
     "category": "Sala",
     "name": "Portallaves",
     "description": "Accesorios que sirven para mantener juntas las llaves.",
@@ -777,10 +905,12 @@
     "price": 250,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Sala_r11.jpg"
+    "image": "images/sala_11.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=sala-065",
+    "qr": "qrs/QR_065_portallaves.png"
   },
   {
-    "id": "66",
+    "id": "sala-066",
     "category": "Sala",
     "name": "Llaves",
     "description": "Objetos metálicos utilizados para abrir o cerrar cerraduras.",
@@ -789,10 +919,12 @@
     "price": 75,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Sala_r12.png"
+    "image": "images/sala_12.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=sala-066",
+    "qr": "qrs/QR_066_llaves.png"
   },
   {
-    "id": "67",
+    "id": "sala-067",
     "category": "Sala",
     "name": "Libros",
     "description": "Materiales impresos que contienen información, historias o conocimientos.",
@@ -801,10 +933,12 @@
     "price": 300,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Sala_r13.jpg"
+    "image": "images/sala_13.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=sala-067",
+    "qr": "qrs/QR_067_libros.png"
   },
   {
-    "id": "68",
+    "id": "sala-068",
     "category": "Sala",
     "name": "Trofeo",
     "description": "Objeto que representa un premio o reconocimiento.",
@@ -813,10 +947,12 @@
     "price": 400,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Sala_r14.png"
+    "image": "images/sala_14.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=sala-068",
+    "qr": "qrs/QR_068_trofeo.png"
   },
   {
-    "id": "69",
+    "id": "sala-069",
     "category": "Sala",
     "name": "Cuadros",
     "description": "Elementos decorativos que se colocan en paredes.",
@@ -825,10 +961,12 @@
     "price": 1800,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Sala_r15.jpg"
+    "image": "images/sala_15.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=sala-069",
+    "qr": "qrs/QR_069_cuadros.png"
   },
   {
-    "id": "70",
+    "id": "sala-070",
     "category": "Sala",
     "name": "Espejo",
     "description": "Sirve para reflejar la imagen de las personas y revisar su apariencia.",
@@ -837,10 +975,12 @@
     "price": 3200,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Sala_r16.jpg"
+    "image": "images/sala_16.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=sala-070",
+    "qr": "qrs/QR_070_espejo.png"
   },
   {
-    "id": "71",
+    "id": "sala-071",
     "category": "Sala",
     "name": "Bicleta de ruta",
     "description": "Bicicleta de ruta:",
@@ -849,10 +989,12 @@
     "price": 11400,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Sala_r17.jpg"
+    "image": "images/sala_17.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=sala-071",
+    "qr": "qrs/QR_071_bicleta-de-ruta.png"
   },
   {
-    "id": "72",
+    "id": "sala-072",
     "category": "Sala",
     "name": "Cascos",
     "description": "Se utiliza para proteger la cabeza y reducir el riesgo de lesiones durante ciertas actividades.",
@@ -861,10 +1003,12 @@
     "price": 600,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Sala_r18.jpg"
+    "image": "images/sala_18.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=sala-072",
+    "qr": "qrs/QR_072_cascos.png"
   },
   {
-    "id": "73",
+    "id": "cuarto-073",
     "category": "Cuarto",
     "name": "Cama",
     "description": "Mueble diseñado para dormir y descansar, generalmente con una estructura que sostiene un colchón.",
@@ -873,10 +1017,12 @@
     "price": 4000,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r5.jpg"
+    "image": "images/cuarto_5.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-073",
+    "qr": "qrs/QR_073_cama.png"
   },
   {
-    "id": "74",
+    "id": "cuarto-074",
     "category": "Cuarto",
     "name": "Almohadas",
     "description": "Accesorios acolchados que apoyan la cabeza y el cuello durante el descanso.",
@@ -885,10 +1031,12 @@
     "price": 450,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r6.png"
+    "image": "images/cuarto_6.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-074",
+    "qr": "qrs/QR_074_almohadas.png"
   },
   {
-    "id": "75",
+    "id": "cuarto-075",
     "category": "Cuarto",
     "name": "Zapatero",
     "description": "Mueble o soporte para guardar y organizar el calzado.",
@@ -897,10 +1045,12 @@
     "price": 2500,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r7.jpg"
+    "image": "images/cuarto_7.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-075",
+    "qr": "qrs/QR_075_zapatero.png"
   },
   {
-    "id": "76",
+    "id": "cuarto-076",
     "category": "Cuarto",
     "name": "Mochila deportiva",
     "description": "Bolsa resistente para transportar ropa, zapatos y accesorios deportivos.",
@@ -909,10 +1059,12 @@
     "price": 600,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r8.jpg"
+    "image": "images/cuarto_8.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-076",
+    "qr": "qrs/QR_076_mochila-deportiva.png"
   },
   {
-    "id": "77",
+    "id": "cuarto-077",
     "category": "Cuarto",
     "name": "Cinturones",
     "description": "Accesorios que se colocan alrededor de la cintura para ajustar pantalones y complementar la vestimenta.",
@@ -921,10 +1073,12 @@
     "price": 300,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r9.jpg"
+    "image": "images/cuarto_9.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-077",
+    "qr": "qrs/QR_077_cinturones.png"
   },
   {
-    "id": "78",
+    "id": "cuarto-078",
     "category": "Cuarto",
     "name": "Peluches",
     "description": "Juguetes suaves y acolchados que se utilizan para jugar, decorar o acompañar",
@@ -933,10 +1087,12 @@
     "price": 250,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r10.jpg"
+    "image": "images/cuarto_10.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-078",
+    "qr": "qrs/QR_078_peluches.png"
   },
   {
-    "id": "79",
+    "id": "cuarto-079",
     "category": "Cuarto",
     "name": "Ventilador de pie",
     "description": "Aparato eléctrico con base que mueve el aire para refrescar una habitación.",
@@ -945,10 +1101,12 @@
     "price": 900,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r11.jpg"
+    "image": "images/cuarto_11.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-079",
+    "qr": "qrs/QR_079_ventilador-de-pie.png"
   },
   {
-    "id": "80",
+    "id": "cuarto-080",
     "category": "Cuarto",
     "name": "Ventilador de techo",
     "description": "Aparato instalado en el techo que distribuye el aire dentro de una habitación.",
@@ -957,10 +1115,12 @@
     "price": 700,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r12.jpg"
+    "image": "images/cuarto_12.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-080",
+    "qr": "qrs/QR_080_ventilador-de-techo.png"
   },
   {
-    "id": "81",
+    "id": "cuarto-081",
     "category": "Cuarto",
     "name": "Aire acondicionado",
     "description": "Equipo eléctrico que regula la temperatura del ambiente, principalmente enfriando el aire.",
@@ -969,10 +1129,12 @@
     "price": 9000,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r13.jpg"
+    "image": "images/cuarto_13.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-081",
+    "qr": "qrs/QR_081_aire-acondicionado.png"
   },
   {
-    "id": "82",
+    "id": "cuarto-082",
     "category": "Cuarto",
     "name": "Televisor",
     "description": "Dispositivo electrónico para ver programas, películas, noticias y otros contenidos audiovisuales.",
@@ -981,10 +1143,12 @@
     "price": 12000,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r14.jpg"
+    "image": "images/cuarto_14.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-082",
+    "qr": "qrs/QR_082_televisor.png"
   },
   {
-    "id": "83",
+    "id": "cuarto-083",
     "category": "Cuarto",
     "name": "Alcancia",
     "description": "Recipiente para guardar monedas y billetes y fomentar el ahorro.",
@@ -993,10 +1157,12 @@
     "price": 100,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r15.jpg"
+    "image": "images/cuarto_15.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-083",
+    "qr": "qrs/QR_083_alcancia.png"
   },
   {
-    "id": "84",
+    "id": "cuarto-084",
     "category": "Cuarto",
     "name": "Bolsos",
     "description": "Accesorios de distintos tamaños para transportar objetos personales.",
@@ -1005,10 +1171,12 @@
     "price": 1500,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r16.jpg"
+    "image": "images/cuarto_16.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-084",
+    "qr": "qrs/QR_084_bolsos.png"
   },
   {
-    "id": "85",
+    "id": "cuarto-085",
     "category": "Cuarto",
     "name": "Tenis",
     "description": "Calzado que protege los pies y brinda comodidad al caminar o realizar actividades físicas.",
@@ -1017,10 +1185,12 @@
     "price": 22500,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r17.jpg"
+    "image": "images/cuarto_17.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-085",
+    "qr": "qrs/QR_085_tenis.png"
   },
   {
-    "id": "86",
+    "id": "cuarto-086",
     "category": "Cuarto",
     "name": "Gorras",
     "description": "Accesorios que cubren la cabeza y ayudan a proteger el rostro del sol.",
@@ -1029,10 +1199,12 @@
     "price": 2000,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r18.jpg"
+    "image": "images/cuarto_18.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-086",
+    "qr": "qrs/QR_086_gorras.png"
   },
   {
-    "id": "87",
+    "id": "cuarto-087",
     "category": "Cuarto",
     "name": "Hamaca",
     "description": "Pieza de tela o red suspendida por sus extremos para descansar o dormir.",
@@ -1041,10 +1213,12 @@
     "price": 800,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r19.jpg"
+    "image": "images/cuarto_19.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-087",
+    "qr": "qrs/QR_087_hamaca.png"
   },
   {
-    "id": "88",
+    "id": "cuarto-088",
     "category": "Cuarto",
     "name": "Sabanas",
     "description": "Piezas de tela que cubren el colchón o el cuerpo y contribuyen a la higiene de la cama.",
@@ -1053,10 +1227,12 @@
     "price": 1800,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r20.jpg"
+    "image": "images/cuarto_20.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-088",
+    "qr": "qrs/QR_088_sabanas.png"
   },
   {
-    "id": "89",
+    "id": "cuarto-089",
     "category": "Cuarto",
     "name": "Colchón",
     "description": "Superficie acolchada que brinda soporte y comodidad al dormir.",
@@ -1065,10 +1241,12 @@
     "price": 4500,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r21.jpg"
+    "image": "images/cuarto_21.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-089",
+    "qr": "qrs/QR_089_colch-n.png"
   },
   {
-    "id": "90",
+    "id": "cuarto-090",
     "category": "Cuarto",
     "name": "Tapete",
     "description": "Pieza de tela u otro material que cubre o decora el piso.",
@@ -1077,10 +1255,12 @@
     "price": 400,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r22.jpg"
+    "image": "images/cuarto_22.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-090",
+    "qr": "qrs/QR_090_tapete.png"
   },
   {
-    "id": "91",
+    "id": "cuarto-091",
     "category": "Cuarto",
     "name": "Extensión",
     "description": "Cable eléctrico que permite conectar aparatos a cierta distancia de un contacto.",
@@ -1089,10 +1269,12 @@
     "price": 300,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r23.jpg"
+    "image": "images/cuarto_23.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-091",
+    "qr": "qrs/QR_091_extensi-n.png"
   },
   {
-    "id": "92",
+    "id": "cuarto-092",
     "category": "Cuarto",
     "name": "Desmaquillante",
     "description": "Producto cosmético que ayuda a retirar maquillaje y residuos del rostro.",
@@ -1101,10 +1283,12 @@
     "price": 150,
     "expiration": "2028-07-01",
     "barcode": "",
-    "image": "images/Cuarto_r24.jpg"
+    "image": "images/cuarto_24.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-092",
+    "qr": "qrs/QR_092_desmaquillante.png"
   },
   {
-    "id": "93",
+    "id": "cuarto-093",
     "category": "Cuarto",
     "name": "Perfumes",
     "description": "Productos aromáticos que se aplican al cuerpo o la ropa para proporcionar un olor agradable.",
@@ -1113,10 +1297,12 @@
     "price": 1500,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r25.jpg"
+    "image": "images/cuarto_25.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-093",
+    "qr": "qrs/QR_093_perfumes.png"
   },
   {
-    "id": "94",
+    "id": "cuarto-094",
     "category": "Cuarto",
     "name": "Peines",
     "description": "Utensilios con dientes para desenredar y acomodar el cabello",
@@ -1125,10 +1311,12 @@
     "price": 60,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r26.jpg"
+    "image": "images/cuarto_26.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-094",
+    "qr": "qrs/QR_094_peines.png"
   },
   {
-    "id": "95",
+    "id": "cuarto-095",
     "category": "Cuarto",
     "name": "Desodorante",
     "description": "Producto de higiene personal que ayuda a controlar el mal olor corporal.",
@@ -1137,10 +1325,12 @@
     "price": 70,
     "expiration": "2029-01-01",
     "barcode": "",
-    "image": "images/Cuarto_r27.jpg"
+    "image": "images/cuarto_27.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-095",
+    "qr": "qrs/QR_095_desodorante.png"
   },
   {
-    "id": "96",
+    "id": "cuarto-096",
     "category": "Cuarto",
     "name": "Audífonos",
     "description": "Dispositivos que permiten escuchar música, videos y llamadas de forma individual.",
@@ -1149,10 +1339,12 @@
     "price": 500,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r28.png"
+    "image": "images/cuarto_28.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-096",
+    "qr": "qrs/QR_096_aud-fonos.png"
   },
   {
-    "id": "97",
+    "id": "cuarto-097",
     "category": "Cuarto",
     "name": "Crema de cabello",
     "description": "Producto capilar que ayuda a acondicionar, suavizar o peinar el cabello.",
@@ -1161,10 +1353,12 @@
     "price": 120,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r29.jpg"
+    "image": "images/cuarto_29.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-097",
+    "qr": "qrs/QR_097_crema-de-cabello.png"
   },
   {
-    "id": "98",
+    "id": "cuarto-098",
     "category": "Cuarto",
     "name": "Crema corporal",
     "description": "Producto que se aplica sobre la piel para hidratarla y reducir la resequedad.",
@@ -1173,10 +1367,12 @@
     "price": 80,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r30.png"
+    "image": "images/cuarto_30.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-098",
+    "qr": "qrs/QR_098_crema-corporal.png"
   },
   {
-    "id": "99",
+    "id": "cuarto-099",
     "category": "Cuarto",
     "name": "Toallas húmedas",
     "description": "Paños húmedos que facilitan la limpieza de la piel de manera práctica.",
@@ -1185,10 +1381,12 @@
     "price": 100,
     "expiration": "2028-03-25",
     "barcode": "",
-    "image": "images/Cuarto_r31.jpg"
+    "image": "images/cuarto_31.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-099",
+    "qr": "qrs/QR_099_toallas-h-medas.png"
   },
   {
-    "id": "100",
+    "id": "cuarto-100",
     "category": "Cuarto",
     "name": "Secadora de cabello",
     "description": "Aparato eléctrico que expulsa aire para secar el cabello y facilitar su peinado.",
@@ -1197,10 +1395,12 @@
     "price": 900,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r32.png"
+    "image": "images/cuarto_32.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-100",
+    "qr": "qrs/QR_100_secadora-de-cabello.png"
   },
   {
-    "id": "101",
+    "id": "cuarto-101",
     "category": "Cuarto",
     "name": "Paletas de maquillaje",
     "description": "Estuches con varios cosméticos, como sombras o rubores, para crear distintos maquillajes.",
@@ -1209,10 +1409,12 @@
     "price": 320,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r33.jpg"
+    "image": "images/cuarto_33.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-101",
+    "qr": "qrs/QR_101_paletas-de-maquillaje.png"
   },
   {
-    "id": "102",
+    "id": "cuarto-102",
     "category": "Cuarto",
     "name": "Brochas de maquillaje",
     "description": "Herramientas con cerdas que permiten aplicar y difuminar productos cosméticos.",
@@ -1221,10 +1423,12 @@
     "price": 250,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r34.jpg"
+    "image": "images/cuarto_34.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-102",
+    "qr": "qrs/QR_102_brochas-de-maquillaje.png"
   },
   {
-    "id": "103",
+    "id": "cuarto-103",
     "category": "Cuarto",
     "name": "Labiales",
     "description": "Productos cosméticos que aportan color y, según su fórmula, hidratación o brillo a los labios.",
@@ -1233,10 +1437,12 @@
     "price": 200,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r35.png"
+    "image": "images/cuarto_35.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-103",
+    "qr": "qrs/QR_103_labiales.png"
   },
   {
-    "id": "104",
+    "id": "cuarto-104",
     "category": "Cuarto",
     "name": "Enchinador",
     "description": "Utensilio de belleza que curva las pestañas para darles una apariencia levantada.",
@@ -1245,10 +1451,12 @@
     "price": 80,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r36.jpg"
+    "image": "images/cuarto_36.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-104",
+    "qr": "qrs/QR_104_enchinador.png"
   },
   {
-    "id": "105",
+    "id": "cuarto-105",
     "category": "Cuarto",
     "name": "Foco",
     "description": "Dispositivo eléctrico que produce luz para iluminar habitaciones y espacios.",
@@ -1257,10 +1465,12 @@
     "price": 50,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r37.jpg"
+    "image": "images/cuarto_37.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-105",
+    "qr": "qrs/QR_105_foco.png"
   },
   {
-    "id": "106",
+    "id": "cuarto-106",
     "category": "Cuarto",
     "name": "Controles",
     "description": "Dispositivos que permiten manejar aparatos electrónicos a distancia.",
@@ -1269,10 +1479,12 @@
     "price": 250,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r38.jpg"
+    "image": "images/cuarto_38.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-106",
+    "qr": "qrs/QR_106_controles.png"
   },
   {
-    "id": "107",
+    "id": "cuarto-107",
     "category": "Cuarto",
     "name": "Fundas",
     "description": "Cubiertas que protegen distintos objetos del polvo, la suciedad y los rayones.",
@@ -1281,10 +1493,12 @@
     "price": 400,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r39.jpg"
+    "image": "images/cuarto_39.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-107",
+    "qr": "qrs/QR_107_fundas.png"
   },
   {
-    "id": "108",
+    "id": "cuarto-108",
     "category": "Cuarto",
     "name": "Medallas",
     "description": "Objetos generalmente metálicos que reconocen logros deportivos, académicos o personales.",
@@ -1293,10 +1507,12 @@
     "price": 70,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r40.jpg"
+    "image": "images/cuarto_40.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-108",
+    "qr": "qrs/QR_108_medallas.png"
   },
   {
-    "id": "109",
+    "id": "cuarto-109",
     "category": "Cuarto",
     "name": "Calcetines",
     "description": "Prendas que cubren los pies y ayudan a absorber la humedad y reducir el roce con el calzado.",
@@ -1305,10 +1521,12 @@
     "price": 210,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r41.jpg"
+    "image": "images/cuarto_41.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-109",
+    "qr": "qrs/QR_109_calcetines.png"
   },
   {
-    "id": "110",
+    "id": "cuarto-110",
     "category": "Cuarto",
     "name": "Calcetas largas",
     "description": "Prendas que cubren los pies y una mayor parte de las piernas.",
@@ -1317,10 +1535,12 @@
     "price": 130,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r42.jpg"
+    "image": "images/cuarto_42.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-110",
+    "qr": "qrs/QR_110_calcetas-largas.png"
   },
   {
-    "id": "111",
+    "id": "cuarto-111",
     "category": "Cuarto",
     "name": "Pañales",
     "description": "Productos absorbentes que retienen la orina y las heces para mantener la piel más seca.",
@@ -1329,10 +1549,12 @@
     "price": 500,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r43.jpg"
+    "image": "images/cuarto_43.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-111",
+    "qr": "qrs/QR_111_pa-ales.png"
   },
   {
-    "id": "112",
+    "id": "cuarto-112",
     "category": "Cuarto",
     "name": "Lentes de sol",
     "description": "Accesorios que reducen el deslumbramiento y ayudan a proteger los ojos de la radiación UV si cuentan con filtro adecuado.",
@@ -1341,10 +1563,12 @@
     "price": 300,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r44.png"
+    "image": "images/cuarto_44.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-112",
+    "qr": "qrs/QR_112_lentes-de-sol.png"
   },
   {
-    "id": "113",
+    "id": "cuarto-113",
     "category": "Cuarto",
     "name": "Blusas cortas",
     "description": "Prendas de vestir de longitud corta que cubren la parte superior del cuerpo.",
@@ -1353,10 +1577,12 @@
     "price": 1000,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r45.jpg"
+    "image": "images/cuarto_45.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-113",
+    "qr": "qrs/QR_113_blusas-cortas.png"
   },
   {
-    "id": "114",
+    "id": "cuarto-114",
     "category": "Cuarto",
     "name": "Blusas largas",
     "description": "Prendas de vestir que cubren la parte superior del cuerpo y tienen mayor longitud.",
@@ -1365,10 +1591,12 @@
     "price": 700,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r46.jpg"
+    "image": "images/cuarto_46.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-114",
+    "qr": "qrs/QR_114_blusas-largas.png"
   },
   {
-    "id": "115",
+    "id": "cuarto-115",
     "category": "Cuarto",
     "name": "Shorts ",
     "description": "Prendas cortas que cubren la parte inferior del cuerpo y permiten libertad de movimiento.",
@@ -1377,10 +1605,12 @@
     "price": 2500,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r47.jpg"
+    "image": "images/cuarto_47.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-115",
+    "qr": "qrs/QR_115_shorts.png"
   },
   {
-    "id": "116",
+    "id": "cuarto-116",
     "category": "Cuarto",
     "name": "Pantalones",
     "description": "Prendas de vestir que cubren ambas piernas desde la cintura hasta los tobillos o una altura similar.",
@@ -1389,10 +1619,12 @@
     "price": 3800,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r48.jpg"
+    "image": "images/cuarto_48.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-116",
+    "qr": "qrs/QR_116_pantalones.png"
   },
   {
-    "id": "117",
+    "id": "cuarto-117",
     "category": "Cuarto",
     "name": "Vestidos",
     "description": "Prendas de una sola pieza que cubren el torso y se extienden hacia las piernas.",
@@ -1401,10 +1633,12 @@
     "price": 1650,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r49.jpg"
+    "image": "images/cuarto_49.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-117",
+    "qr": "qrs/QR_117_vestidos.png"
   },
   {
-    "id": "118",
+    "id": "cuarto-118",
     "category": "Cuarto",
     "name": "Mangas largas",
     "description": "Prendas o piezas de ropa que cubren los brazos hasta las muñecas o una longitud similar.",
@@ -1413,10 +1647,12 @@
     "price": 500,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r50.jpg"
+    "image": "images/cuarto_50.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-118",
+    "qr": "qrs/QR_118_mangas-largas.png"
   },
   {
-    "id": "119",
+    "id": "cuarto-119",
     "category": "Cuarto",
     "name": "Shorts deportivos",
     "description": "Prendas ligeras y cómodas diseñadas para facilitar el movimiento durante el ejercicio.",
@@ -1425,10 +1661,12 @@
     "price": 1800,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r51.jpg"
+    "image": "images/cuarto_51.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-119",
+    "qr": "qrs/QR_119_shorts-deportivos.png"
   },
   {
-    "id": "120",
+    "id": "cuarto-120",
     "category": "Cuarto",
     "name": "Tops deportivos",
     "description": "Prendas que brindan soporte al pecho y comodidad durante las actividades físicas.",
@@ -1437,10 +1675,12 @@
     "price": 760,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r52.jpg"
+    "image": "images/cuarto_52.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-120",
+    "qr": "qrs/QR_120_tops-deportivos.png"
   },
   {
-    "id": "121",
+    "id": "cuarto-121",
     "category": "Cuarto",
     "name": "Tacones",
     "description": "Calzado con elevación en el talón utilizado para complementar distintos atuendos.",
@@ -1449,10 +1689,12 @@
     "price": 1000,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r53.jpg"
+    "image": "images/cuarto_53.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-121",
+    "qr": "qrs/QR_121_tacones.png"
   },
   {
-    "id": "122",
+    "id": "cuarto-122",
     "category": "Cuarto",
     "name": "Sandalias",
     "description": "Calzado abierto que sujeta el pie mediante tiras y permite una mayor ventilación.",
@@ -1461,10 +1703,12 @@
     "price": 500,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r54.jpg"
+    "image": "images/cuarto_54.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-122",
+    "qr": "qrs/QR_122_sandalias.png"
   },
   {
-    "id": "123",
+    "id": "cuarto-123",
     "category": "Cuarto",
     "name": "Chanclas",
     "description": "Calzado ligero y abierto, generalmente con una tira entre los dedos, para uso casual.",
@@ -1473,10 +1717,12 @@
     "price": 3000,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Cuarto_r55.png"
+    "image": "images/cuarto_55.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=cuarto-123",
+    "qr": "qrs/QR_123_chanclas.png"
   },
   {
-    "id": "124",
+    "id": "ba-o-y-limpieza-124",
     "category": "Baño y limpieza",
     "name": "Regadera",
     "description": "Dispositivo que distribuye el agua mediante pequeños orificios para facilitar el baño.",
@@ -1485,10 +1731,12 @@
     "price": 800,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r5.jpg"
+    "image": "images/ba-o-y-limpieza_5.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-124",
+    "qr": "qrs/QR_124_regadera.png"
   },
   {
-    "id": "125",
+    "id": "ba-o-y-limpieza-125",
     "category": "Baño y limpieza",
     "name": "Fabuloso",
     "description": "Producto de limpieza para eliminar suciedad de superficies del hogar y dejar un aroma agradable.",
@@ -1497,10 +1745,12 @@
     "price": 45,
     "expiration": "2028-04-01",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r6.jpg"
+    "image": "images/ba-o-y-limpieza_6.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-125",
+    "qr": "qrs/QR_125_fabuloso.png"
   },
   {
-    "id": "126",
+    "id": "ba-o-y-limpieza-126",
     "category": "Baño y limpieza",
     "name": "Cloro",
     "description": "Producto químico que se utiliza, según sus indicaciones, para desinfectar ciertas superficies y blanquear ropa.",
@@ -1509,10 +1759,12 @@
     "price": 40,
     "expiration": "2029-07-26",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r7.png"
+    "image": "images/ba-o-y-limpieza_7.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-126",
+    "qr": "qrs/QR_126_cloro.png"
   },
   {
-    "id": "127",
+    "id": "ba-o-y-limpieza-127",
     "category": "Baño y limpieza",
     "name": "Suavitel",
     "description": "Suavizante que ayuda a dejar la ropa más suave y con un aroma agradable después del lavado.",
@@ -1521,10 +1773,12 @@
     "price": 45,
     "expiration": "2028-03-01",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r8.png"
+    "image": "images/ba-o-y-limpieza_8.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-127",
+    "qr": "qrs/QR_127_suavitel.png"
   },
   {
-    "id": "128",
+    "id": "ba-o-y-limpieza-128",
     "category": "Baño y limpieza",
     "name": "Jabón",
     "description": "Producto de higiene que ayuda a retirar suciedad y grasa de la piel.",
@@ -1533,10 +1787,12 @@
     "price": 55,
     "expiration": "2028-09-01",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r9.jpg"
+    "image": "images/ba-o-y-limpieza_9.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-128",
+    "qr": "qrs/QR_128_jab-n.png"
   },
   {
-    "id": "129",
+    "id": "ba-o-y-limpieza-129",
     "category": "Baño y limpieza",
     "name": "Pasta dental",
     "description": "Producto de higiene bucal que se usa con el cepillo para limpiar los dientes.",
@@ -1545,10 +1801,12 @@
     "price": 70,
     "expiration": "2028-06-01",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r10.jpg"
+    "image": "images/ba-o-y-limpieza_10.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-129",
+    "qr": "qrs/QR_129_pasta-dental.png"
   },
   {
-    "id": "130",
+    "id": "ba-o-y-limpieza-130",
     "category": "Baño y limpieza",
     "name": "Lavamanos",
     "description": "Instalación sanitaria utilizada para lavarse las manos y realizar actividades básicas de higiene.",
@@ -1557,10 +1815,12 @@
     "price": 1500,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r11.jpg"
+    "image": "images/ba-o-y-limpieza_11.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-130",
+    "qr": "qrs/QR_130_lavamanos.png"
   },
   {
-    "id": "131",
+    "id": "ba-o-y-limpieza-131",
     "category": "Baño y limpieza",
     "name": "Toallas femeninas",
     "description": "Productos absorbentes que recogen el flujo menstrual durante la menstruación.",
@@ -1569,10 +1829,12 @@
     "price": 83,
     "expiration": "2029-08-01",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r12.jpg"
+    "image": "images/ba-o-y-limpieza_12.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-131",
+    "qr": "qrs/QR_131_toallas-femeninas.png"
   },
   {
-    "id": "132",
+    "id": "ba-o-y-limpieza-132",
     "category": "Baño y limpieza",
     "name": "Pantiprotector",
     "description": "Protector delgado y absorbente que se coloca en la ropa interior para recoger pequeñas cantidades de flujo.",
@@ -1581,10 +1843,12 @@
     "price": 71,
     "expiration": "2029-07-01",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r13.jpg"
+    "image": "images/ba-o-y-limpieza_13.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-132",
+    "qr": "qrs/QR_132_pantiprotector.png"
   },
   {
-    "id": "133",
+    "id": "ba-o-y-limpieza-133",
     "category": "Baño y limpieza",
     "name": "Jabón azul",
     "description": "Producto de limpieza de color azul que se utiliza para lavar según su composición y presentación.",
@@ -1593,10 +1857,12 @@
     "price": 28,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r14.png"
+    "image": "images/ba-o-y-limpieza_14.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-133",
+    "qr": "qrs/QR_133_jab-n-azul.png"
   },
   {
-    "id": "134",
+    "id": "ba-o-y-limpieza-134",
     "category": "Baño y limpieza",
     "name": "Jabón zote",
     "description": "Jabón utilizado principalmente para lavar ropa y ayudar a retirar suciedad y algunas manchas.",
@@ -1605,10 +1871,12 @@
     "price": 28,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r15.jpg"
+    "image": "images/ba-o-y-limpieza_15.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-134",
+    "qr": "qrs/QR_134_jab-n-zote.png"
   },
   {
-    "id": "135",
+    "id": "ba-o-y-limpieza-135",
     "category": "Baño y limpieza",
     "name": "Shampoo",
     "description": "Producto de higiene capilar que elimina grasa, suciedad y residuos del cabello y cuero cabelludo.",
@@ -1617,10 +1885,12 @@
     "price": 70,
     "expiration": "2029-06-01",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r16.png"
+    "image": "images/ba-o-y-limpieza_16.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-135",
+    "qr": "qrs/QR_135_shampoo.png"
   },
   {
-    "id": "136",
+    "id": "ba-o-y-limpieza-136",
     "category": "Baño y limpieza",
     "name": "Acondicionador",
     "description": "Producto capilar que suaviza el cabello y facilita su desenredado después del lavado.",
@@ -1629,10 +1899,12 @@
     "price": 100,
     "expiration": "2028-06-01",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r17.jpg"
+    "image": "images/ba-o-y-limpieza_17.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-136",
+    "qr": "qrs/QR_136_acondicionador.png"
   },
   {
-    "id": "137",
+    "id": "ba-o-y-limpieza-137",
     "category": "Baño y limpieza",
     "name": "Pinol aromas",
     "description": "Producto para limpiar determinadas superficies del hogar siguiendo las instrucciones de la etiqueta.",
@@ -1641,10 +1913,12 @@
     "price": 35,
     "expiration": "2028-03-01",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r18.jpg"
+    "image": "images/ba-o-y-limpieza_18.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-137",
+    "qr": "qrs/QR_137_pinol-aromas.png"
   },
   {
-    "id": "138",
+    "id": "ba-o-y-limpieza-138",
     "category": "Baño y limpieza",
     "name": "Cepillo de dientes",
     "description": "Utensilio con cerdas para limpiar los dientes y ayudar a retirar la placa dental.",
@@ -1653,10 +1927,12 @@
     "price": 60,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r19.png"
+    "image": "images/ba-o-y-limpieza_19.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-138",
+    "qr": "qrs/QR_138_cepillo-de-dientes.png"
   },
   {
-    "id": "139",
+    "id": "ba-o-y-limpieza-139",
     "category": "Baño y limpieza",
     "name": "Papel higienico",
     "description": "Papel suave y desechable para la higiene personal después de usar el inodoro.",
@@ -1665,10 +1941,12 @@
     "price": 228,
     "expiration": "2028-05-01",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r20.jpg"
+    "image": "images/ba-o-y-limpieza_20.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-139",
+    "qr": "qrs/QR_139_papel-higienico.png"
   },
   {
-    "id": "140",
+    "id": "ba-o-y-limpieza-140",
     "category": "Baño y limpieza",
     "name": "Detergente",
     "description": "Producto de limpieza que ayuda a eliminar suciedad y manchas de la ropa durante el lavado.",
@@ -1677,10 +1955,12 @@
     "price": 55,
     "expiration": "2028-10-01",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r21.jpg"
+    "image": "images/ba-o-y-limpieza_21.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-140",
+    "qr": "qrs/QR_140_detergente.png"
   },
   {
-    "id": "141",
+    "id": "ba-o-y-limpieza-141",
     "category": "Baño y limpieza",
     "name": "Jalador",
     "description": "Utensilio con una banda de goma para retirar agua de pisos, ventanas y superficies lisas.",
@@ -1689,10 +1969,12 @@
     "price": 50,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r22.jpg"
+    "image": "images/ba-o-y-limpieza_22.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-141",
+    "qr": "qrs/QR_141_jalador.png"
   },
   {
-    "id": "142",
+    "id": "ba-o-y-limpieza-142",
     "category": "Baño y limpieza",
     "name": "Toallas",
     "description": "Piezas de tela absorbente utilizadas para secar el cuerpo o las manos.",
@@ -1701,10 +1983,12 @@
     "price": 600,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r23.jpg"
+    "image": "images/ba-o-y-limpieza_23.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-142",
+    "qr": "qrs/QR_142_toallas.png"
   },
   {
-    "id": "143",
+    "id": "ba-o-y-limpieza-143",
     "category": "Baño y limpieza",
     "name": "Escobas",
     "description": "Utensilios con cerdas que permiten barrer pisos y recoger polvo y residuos.",
@@ -1713,10 +1997,12 @@
     "price": 100,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r24.jpg"
+    "image": "images/ba-o-y-limpieza_24.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-143",
+    "qr": "qrs/QR_143_escobas.png"
   },
   {
-    "id": "144",
+    "id": "ba-o-y-limpieza-144",
     "category": "Baño y limpieza",
     "name": "Trapos",
     "description": "Piezas de tela que se utilizan para limpiar, secar y retirar polvo o líquidos de superficies.",
@@ -1725,10 +2011,12 @@
     "price": 150,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r25.jpg"
+    "image": "images/ba-o-y-limpieza_25.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-144",
+    "qr": "qrs/QR_144_trapos.png"
   },
   {
-    "id": "145",
+    "id": "ba-o-y-limpieza-145",
     "category": "Baño y limpieza",
     "name": "Toallas de cara",
     "description": "Toallas pequeñas que se utilizan para secar el rostro después de lavarlo.",
@@ -1737,10 +2025,12 @@
     "price": 300,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r26.jpg"
+    "image": "images/ba-o-y-limpieza_26.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-145",
+    "qr": "qrs/QR_145_toallas-de-cara.png"
   },
   {
-    "id": "146",
+    "id": "ba-o-y-limpieza-146",
     "category": "Baño y limpieza",
     "name": "Cortina de baño",
     "description": "Cubierta flexible para la ducha que reduce las salpicaduras y ayuda a mantener seco el resto del baño.",
@@ -1749,10 +2039,12 @@
     "price": 120,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r27.jpg"
+    "image": "images/ba-o-y-limpieza_27.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-146",
+    "qr": "qrs/QR_146_cortina-de-ba-o.png"
   },
   {
-    "id": "147",
+    "id": "ba-o-y-limpieza-147",
     "category": "Baño y limpieza",
     "name": "Porta rollos",
     "description": "Soporte que mantiene el rollo de papel higiénico en su lugar y facilita su uso.",
@@ -1761,10 +2053,12 @@
     "price": 200,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r28.png"
+    "image": "images/ba-o-y-limpieza_28.png",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-147",
+    "qr": "qrs/QR_147_porta-rollos.png"
   },
   {
-    "id": "148",
+    "id": "ba-o-y-limpieza-148",
     "category": "Baño y limpieza",
     "name": "Dosificador de jabon",
     "description": "Recipiente con mecanismo dispensador que almacena jabón líquido y libera una cantidad controlada",
@@ -1773,10 +2067,12 @@
     "price": 70,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r29.jpg"
+    "image": "images/ba-o-y-limpieza_29.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-148",
+    "qr": "qrs/QR_148_dosificador-de-jabon.png"
   },
   {
-    "id": "149",
+    "id": "ba-o-y-limpieza-149",
     "category": "Baño y limpieza",
     "name": "Grifo",
     "description": "Dispositivo conectado a la instalación de agua que permite abrir, cerrar y regular su flujo.",
@@ -1785,10 +2081,12 @@
     "price": 400,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r30.jpg"
+    "image": "images/ba-o-y-limpieza_30.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-149",
+    "qr": "qrs/QR_149_grifo.png"
   },
   {
-    "id": "150",
+    "id": "ba-o-y-limpieza-150",
     "category": "Baño y limpieza",
     "name": "Inodoro",
     "description": "Instalación sanitaria utilizada para las necesidades fisiológicas y la evacuación de desechos mediante el drenaje.",
@@ -1797,6 +2095,8 @@
     "price": 2500,
     "expiration": "No aplica",
     "barcode": "",
-    "image": "images/Ba_o_y_limpieza_r31.jpg"
+    "image": "images/ba-o-y-limpieza_31.jpg",
+    "url": "https://osvaldoalf.github.io/catalogo-inventario/?id=ba-o-y-limpieza-150",
+    "qr": "qrs/QR_150_inodoro.png"
   }
 ]
