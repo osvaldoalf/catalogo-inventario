@@ -1,0 +1,18 @@
+CATÁLOGO WEB DE INVENTARIO
+
+Archivos incluidos:
+- index.html: catálogo adaptable a celular y computadora
+- products.json: datos de los productos
+- images/: fotografías extraídas del Excel
+
+PUBLICACIÓN GRATUITA CON GITHUB PAGES
+1. Crea o inicia sesión en GitHub.
+2. Crea un repositorio público nuevo (por ejemplo, catalogo-inventario).
+3. Sube el contenido de esta carpeta (index.html, products.json y la carpeta images).
+4. En Settings > Pages, selecciona Deploy from a branch, rama main, carpeta /(root), y guarda.
+5. Espera a que GitHub Pages muestre la URL pública.
+6. Después de tener esa URL, los QR individuales deben apuntar a URL/?id=ID_DEL_PRODUCTO.
+
+AVISO DE PRIVACIDAD: el catálogo es público. Cantidades, precios, nombres y datos incluidos pueden ser vistos por cualquier persona.
+
+NOTA: los códigos QR definitivos aún no se han generado porque dependen de la URL pública que se obtenga al publicar el sitio.
